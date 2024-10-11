@@ -36,7 +36,7 @@ Setting the KPI (Key Performance Indicators) is necessary before we can proceed 
 - Profit: The profit is the addition of its parts.
 - Discount: Total discounted amount in the dataset as a sum  
 
-## NOTE:
+**NOTE:**
 For visualising the KPI, the KPI tile is employed. Moreover, the Card tile is an option. 
 
 1. In what category are the highest orders found? 
@@ -51,7 +51,7 @@ The "Category" column and the "Quantity" measure can be related using the cluste
 5. Which city generates higher sales? 
 
 
-CONCLUSION 
+## CONCLUSION 
 
 So far, analysis on the superstore dataset and valuable insights through the business questions has been achieved. Based on these findings, data-driven recommendations can be provided to help for business growth. The resulting dashboard built from powerbi is shown below:
 
